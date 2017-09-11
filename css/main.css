@@ -108,5 +108,9 @@ footer {
   nav li {
     display: block; }
 
+    h1 {
+      font-size: 28px;
+    }
+
   #menu-icon {
     display: block; } }
